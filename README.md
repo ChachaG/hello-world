@@ -1,4 +1,4 @@
 # hello-world
 this is my test on github.
 
-Hello everyone this Amit Kumar.
+Hello everyone this is Amit Kumar.
